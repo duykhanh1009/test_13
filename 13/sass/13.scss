@@ -1,0 +1,27 @@
+$font-family : 'Nunito', sans-serif;
+$font-size : 18px;
+$line-height: 30px;
+$background: #f8f8f8;
+$color: #222;
+$padding : 30px;
+$color-job: #21bda1;
+$xanh-la: #88b44e;
+
+.text_review{
+    color: $xanh-la;
+}
+.btn{
+    background: $xanh-la;
+    color: #fff;
+}
+.price_1{
+    font-weight: 900;
+    color: #cdcfd0;
+}
+.price_2{
+    font-weight: 900;
+    color:  $xanh-la    ;
+}
+.tyle{
+    color: $xanh-la;
+}
